@@ -19,7 +19,7 @@
     "core-js": "^3.3.2",
     "date-and-time": "^0.10.0",
     "element-ui": "^2.4.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3"
   },
